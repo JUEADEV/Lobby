@@ -1,0 +1,4 @@
+name: Lobby
+version: '${project.version}'
+main: de.juea.lobby.Lobby
+api-version: 1.16
